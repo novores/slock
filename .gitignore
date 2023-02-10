@@ -1,0 +1,5 @@
+*.o
+config.h
+slock
+*.orig
+*.rej
